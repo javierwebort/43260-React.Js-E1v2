@@ -12,7 +12,7 @@ const NavBar = () => {
                     <Nav className="me-auto">
                         <Nav.Link href="#new">New</Nav.Link>
                         <Nav.Link href="#brands">Brands</Nav.Link>
-                        <Nav.Link href="#makeup">Makeup</Nav.Link>
+                        <Nav.Link href="#makeup">Makeup</Nav.Link>  
                         <Nav.Link href="#skincare">Skincare</Nav.Link>
                         <Nav.Link href="#hair">Hair</Nav.Link>
                         <Nav.Link href="#fragance">Fragance</Nav.Link>
